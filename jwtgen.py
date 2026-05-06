@@ -306,7 +306,7 @@ async def validate_key_endpoint(
         "valid": is_valid,
         "key_provided": "******",  # Fully hidden
         "message": "Key is valid" if is_valid else "Key is invalid",
-        "owner": "@Unknown_Reason07",
+        "owner": "@semy0here",
         "timestamp": datetime.now().isoformat(),
         "hint": "Contact owner for valid API key"
     }
