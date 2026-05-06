@@ -1,1 +1,1 @@
-# JWTSEMYGEN
+# JWTGEN

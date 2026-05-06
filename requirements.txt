@@ -1,0 +1,8 @@
+Flask
+fastapi
+flask-caching
+requests
+pycryptodome
+protobuf
+colorama
+fastapi-cache2
