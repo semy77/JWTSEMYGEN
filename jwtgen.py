@@ -254,7 +254,7 @@ async def get_single_response(
                     "status": response_dict.get("status", "N/A"),
                     "token": response_dict.get("token", "N/A"),
                     "key_used": "******",  # Fully hidden key
-                    "credit": "Ghost TEAM",
+                    "credit": "@SEMY0HERE",
                     "timestamp": datetime.now().isoformat(),
                     "cache": "Enabled (7 hours)"
                 }
